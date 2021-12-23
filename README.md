@@ -1,5 +1,4 @@
 # buchnev-185
-https://docs.google.com/spreadsheets/d/19r6nRcVm0VZ_J10AfTKfqUu6BiqrUOsFaw-8i7RsmHs/edit#gid=0
-https://docs.google.com/spreadsheets/d/1hLZsDyDrh7wM1b8N1THHpx855aVIKeBwG5fhXGmeyuQ/edit#gid=1367974743
+Ваш репозиторий в Excel внесла, сводка по оценкам и тема курсового доступны по ссылке: https://docs.google.com/spreadsheets/d/1sigaZ8M5s8NZi94R4XTTjXNyr5V21q39nhIfr9-Se8U/edit#gid=67700862
 https://docs.google.com/presentation/d/1dJvan9CLZMceRECjAOUwTuOSeVG5x5giPiLobkPFtDo/edit#slide=id.gf4f7a9eb46_0_0
 https://github.com/YaroslavBuchnev/buchnev-185.git
